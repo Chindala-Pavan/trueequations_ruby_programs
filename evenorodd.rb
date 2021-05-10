@@ -1,6 +1,5 @@
 
-#t=:y
-#while(t==:y || t==:yes || t==:YES || t==:Y) do
+
 loop do
     print "enter the number to check even or odd?"
     n=gets.chomp.to_i
